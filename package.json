@@ -6,11 +6,11 @@
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Olanetsoft/qrcode-authenthication-with-nodejs.git"
+    "url": "git+https://github.com/lokki-solution/lokki-demo-bridge.git"
   },
   "keywords": [
     "Nodejs"
@@ -18,9 +18,11 @@
   "author": "Idris Olubisi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Olanetsoft/qrcode-authenthication-with-nodejs/issues"
+
+
+    "url": "https://github.com/lokki-solution/lokki-demo-bridge/issues"
   },
-  "homepage": "https://github.com/Olanetsoft/qrcode-authenthication-with-nodejs#readme",
+  "homepage": "https://github.com/lokki-solution/lokki-demo-bridge#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
